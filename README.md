@@ -28,7 +28,7 @@ The user should be able to:
 Home page
   - maybe just a hero page with a title and intro
 
-Table Page
+Table Element
   - Take info from the table of employees
   - Render said table onto the page
       * Table can be sorted by 1+ categories
