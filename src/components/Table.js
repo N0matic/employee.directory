@@ -12,21 +12,21 @@ export default function MaterialTableDemo() {
       { title: 'Salary', field: 'salary' }
     ],
     data: [
-      { id: 1, firstName: 'Dan', lastName: 'Anderson', department: "Executive", role: "Chief Executive Officer", salary: "500,000" },
-      { id: 2, firstName: 'Marla', lastName: 'Johnson', department: "Executive", role: "Chief Financial Officer", salary: "350,000" },
-      { id: 3, firstName: 'John', lastName: 'Markson', department: "Finance", role: "Senior Financial Analyst", salary: "150,000" },
-      { id: 4, firstName: 'Angela', lastName: 'Scott', department: "Marketing", role: "Marketing Associate", salary: "100,000" },
-      { id: 5, firstName: 'Mark', lastName: 'Fox', department: "IT", role: "Senior Developer", salary: "200,000" },
-      { id: 6, firstName: 'Jennifer', lastName: 'Smith', department: "Sales", role: "Sales Director", salary: "225,000" },
-      { id: 7, firstName: 'Matt', lastName: 'Ortega', department: "Sales", role: "Sales Associate", salary: "120,000" },
-      { id: 8, firstName: 'Rachel', lastName: 'Lopez', department: "IT", role: "Junior Developer", salary: "120,000" },
-      { id: 9, firstName: 'Joe', lastName: 'Jackson', department: "Marketing", role: "Marketing Director", salary: "200,000" },
-      { id: 10, firstName: 'Grace', lastName: 'Nolio', department: "Marketing", role: "Senior Marketing Associate", salary: "140,000" },
-      { id: 11, firstName: 'Liam', lastName: 'Potter', department: "Finance", role: "Financial Analyst", salary: "120,000" },
-      { id: 12, firstName: 'Charlene', lastName: 'Weathers', department: "IT", role: "Junior Developer", salary: "100,000" },
-      { id: 13, firstName: 'Rob', lastName: 'Atherton', department: "Finance", role: "Finance Assistant", salary: "75,000" },
-      { id: 14, firstName: 'Molly', lastName: 'Ocean', department: "Marketing", role: "Marketing Assistant", salary: "75,000" },
-      { id: 15, firstName: 'Max', lastName: 'Kyle', department: "Sales", role: "Sales Associate", salary: "130,000" }
+      { id: 1, firstName: 'Mr', lastName: 'Crabbs', department: "Executive", role: "Chief Executive Officer", salary: "500,000" },
+      { id: 2, firstName: 'Captain', lastName: 'Planet', department: "Executive", role: "Chief Financial Officer", salary: "350,000" },
+      { id: 3, firstName: 'Bugs', lastName: 'Bunny', department: "Finance", role: "Senior Financial Analyst", salary: "150,000" },
+      { id: 4, firstName: 'Finn', lastName: 'The Human', department: "Marketing", role: "Marketing Associate", salary: "100,000" },
+      { id: 5, firstName: 'Dexter', lastName: 'The Boy Genius', department: "IT", role: "Senior Developer", salary: "200,000" },
+      { id: 6, firstName: 'Squid', lastName: 'Worth', department: "Sales", role: "Sales Director", salary: "35,000" },
+      { id: 7, firstName: 'Sponge', lastName: 'Bob', department: "Sales", role: "Sales Associate", salary: "30,000" },
+      { id: 8, firstName: 'Doug', lastName: 'Finnie', department: "IT", role: "Junior Developer", salary: "20,000" },
+      { id: 9, firstName: 'Johnny', lastName: 'Bravo', department: "Marketing", role: "Marketing Director", salary: "60,000" },
+      { id: 10, firstName: 'Tommy', lastName: 'Pickles', department: "Marketing", role: "Senior Marketing Associate", salary: "40,000" },
+      { id: 11, firstName: 'Karen', lastName: 'From Accounting', department: "Finance", role: "Financial Analyst", salary: "60,000" },
+      { id: 12, firstName: 'Jake', lastName: 'The Dog', department: "IT", role: "Junior Developer", salary: "100,000" },
+      { id: 13, firstName: 'BMO', lastName: 'The Robot', department: "Finance", role: "Finance Assistant", salary: "75,000" },
+      { id: 14, firstName: 'Ickis', lastName: 'Monster', department: "Marketing", role: "Marketing Assistant", salary: "75,000" },
+      { id: 15, firstName: 'Courage', lastName: 'A Cowardly Dog', department: "Sales", role: "Sales Associate", salary: "25,000" }
     ]
   });
 
