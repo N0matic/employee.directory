@@ -18,3 +18,5 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Screenshots
 
+![Tablepage](/public/images/table.png)
+(https://github.com/N0matic/PumpUptheJAMS/blob/master/public/images/table.png)
